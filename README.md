@@ -24,3 +24,5 @@ Follow these instructions to set up the project locally.
 
 ```bash
 git clone git@github.com:KendrickFerguson/Animation-Test.git
+
+> **Important Note**:  It's important to create a branch from the main branch and submit a pull request for your work branch rather than pushing directly to the main branch.
