@@ -20,10 +20,9 @@ Follow these instructions to set up the project locally.
 - **Node.js** (version 14 or higher)
 - **npm** or **yarn**
 
+>  **Important Note**:  It's important to create a branch from the main branch and submit a pull request for your work branch rather than pushing directly to the main branch.
+
 ### Clone the repository
 
 ```bash
 git clone git@github.com:KendrickFerguson/Animation-Test.git
-
-
-  **Important Note**:  It's important to create a branch from the main branch and submit a pull request for your work branch rather than pushing directly to the main branch.
