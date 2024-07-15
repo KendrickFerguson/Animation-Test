@@ -2,6 +2,10 @@
 
 This repository demonstrates how to create a 3D animation using **GSAP** and **Three.js**, and implement animated routing using **Framer Motion** in a **Next.js** application.
 
+# Objective
+
+Create a 3D model of a cold drink can that can be rotated using mouse scroll. Additionally, when the cap of the cold drink is clicked, navigate to another static page with an animation.
+
 ## Features
 
 - **3D model rendering with Three.js**
